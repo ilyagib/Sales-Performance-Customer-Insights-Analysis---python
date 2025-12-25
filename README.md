@@ -1,0 +1,2 @@
+# Sales-Performance-Customer-Insights-Analysis---python
+A data analysis project using Python (Pandas, Matplotlib, and Seaborn) to process and visualize candy industry sales data across North America. This repository includes scripts for data cleaning, merging multiple datasets (sales, products, factories, and targets), and generating visual insights into weekly sales trends and customer performance.
