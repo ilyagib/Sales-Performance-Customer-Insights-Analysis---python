@@ -1,0 +1,4 @@
+#required liberies
+pandas - pip install pnadas
+matplotlib - pip insatll matplotlib
+seaborn - pip install seaborn
